@@ -1,1 +1,1 @@
-# Piscine C - 19 coding school (Octobre 2019)
+# Piscine C - 19 coding school (October 2019)
